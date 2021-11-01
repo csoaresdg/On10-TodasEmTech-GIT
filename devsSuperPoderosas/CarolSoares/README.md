@@ -3,7 +3,7 @@
 
 [Slides da aula](https://docs.google.com/presentation/d/1fA7hVbZUbIbbhfi5xhPFIwE5PVaN1NWizv8E5QoBJ-0/edit?usp=sharing)  :sparkles:
 
-### [link do projeto] (https://github.com/csoaresdg/workshop1/pull/2#issue-597227317)
+- <a href="https://github.com/csoaresdg/workshop1/pull/2#issue-597227317" target="_blank">link do projeto</a>
 
 
 
